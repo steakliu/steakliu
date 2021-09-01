@@ -3,10 +3,10 @@
 <p><em>Software Enginner at Chengdu </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="http://www.tongtech.com">tongtech.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/yu199195?label=follow&style=social)](https://github.com/Thaiane)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/yu199195)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/yu199195)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/yu199195)](https://badges.pufler.dev)
+[![GitHub Thaiane](https://img.shields.io/github/followers/steakliu?label=follow&style=social)](https://github.com/Thaiane)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/steakliu)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/steakliu)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/steakliu)](https://badges.pufler.dev)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
